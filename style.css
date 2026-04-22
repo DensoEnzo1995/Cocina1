@@ -1,7 +1,10 @@
 h1{
     color: brown;
 }
-
+p{
+    color: antiquewhite;
+}
 ul {
     list-style:none ;
+    color: antiquewhite;
 }
