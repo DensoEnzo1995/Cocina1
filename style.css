@@ -1,7 +1,12 @@
 
 
 h1{
+<<<<<<< HEAD
+    color: navy ;
+
+=======
     color: blue;
+>>>>>>> 56bbe58d798cba6cd385109cfb940f5b5e23543f
 }
 
 body {
