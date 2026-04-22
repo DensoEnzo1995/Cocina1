@@ -1,7 +1,21 @@
+
+
 h1{
     color: brown;
 }
 
+body {
+    background-image: url('Restaurante-Sa-LLotja-15-hc.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
 ul {
     list-style:none ;
+    color: white;
+}
+p{
+    color: white;
 }
