@@ -1,11 +1,13 @@
 
 
 h1{
-    color: rgb(42, 165, 104);
+
+    color: navy ;
+
 }
 
 body {
-    background-image: url('Restaurante-Sa-LLotja-15-hc.jpg');
+    background-image: url('entreplatosterraza.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -18,4 +20,18 @@ p{
 ul {
     list-style:none ;
     color: antiquewhite;
+}
+.arrow {
+    font-size: 50px;
+    text-decoration: none;
+    color: brown;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: transform 0.3s;
+}
+
+.arrow:hover {
+    transform: translateX(5px);
+    color: darkred;
 }
